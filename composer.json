@@ -1,0 +1,20 @@
+{
+    "name": "appventus/bootstrap-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony TwitterBootstrapBundle",
+    "keywords": ["bootstrap"],
+    "homepage": "http://appventus.com/bundles/bootstrap",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leny Bernard (AppVentus)",
+            "email": "leny@appventus.com",
+            "homepage": "http://appventus.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "AppVentus\\TwitterBootstrapBundle": "" }
+    },
+    "target-dir": "AppVentus/TwitterBootstrapBundle",
+    "minimum-stability": "dev"
+}
