@@ -1,6 +1,5 @@
 $(document).ready(function(){
 
-    $(".fancybox").fancybox();
     //tab
     $("a[rel=twipsy],a[rel=tooltip]").tooltip({
         live: true
